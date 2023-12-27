@@ -21,14 +21,18 @@ App demo:
 - Make prediction:
 
   
-![](https://github.com/tompaw4727/test/blob/main/GIF4.gif) 
+![](https://github.com/tompaw4727/DogsFinderMini/blob/main/readme_files/D1.gif) 
 - Info webscrapping:
 
   
-![](https://github.com/tompaw4727/test/blob/main/GIF2.gif) 
+![](https://github.com/tompaw4727/DogsFinderMini/blob/main/readme_files/D2.gif) 
 - History webscrapping:
 
   
-![](https://github.com/tompaw4727/test/blob/main/GIF3.gif) 
+![](https://github.com/tompaw4727/DogsFinderMini/blob/main/readme_files/D3.gif) 
+- User errors handling examples:
+
+
+![](https://github.com/tompaw4727/DogsFinderMini/blob/main/readme_files/D4.gif) 
 ## License
 Distributed under the MIT License.
